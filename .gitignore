@@ -1,0 +1,9 @@
+# Local MySQL dumps / exports
+*.sql.bak
+*.dump
+
+# Editor / OS noise
+.DS_Store
+.vscode/
+.idea/
+*.swp
